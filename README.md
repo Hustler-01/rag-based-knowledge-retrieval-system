@@ -57,7 +57,7 @@ This project demonstrates how **Generative AI** can be combined with **semantic 
 
 ---
 
-## How to Run?
+## ⚙️ How to Run?
 
 ### STEP 01- Create a conda environment after opening the repository
 
