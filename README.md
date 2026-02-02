@@ -48,6 +48,7 @@ This project demonstrates how **Generative AI** can be combined with **semantic 
 .
 ├── app.py
 ├── src/
+│   └── __init__.py
 │   └── helper.py
 ├── .env
 ├── requirements.txt
