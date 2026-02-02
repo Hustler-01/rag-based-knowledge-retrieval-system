@@ -53,8 +53,11 @@ This project demonstrates how **Generative AI** can be combined with **semantic 
 ├── requirements.txt
 └── README.md
 
+```
 
-# How to run?
+---
+
+## How to Run?
 
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -65,7 +68,6 @@ conda create -n llmapp python=3.8 -y
 ```bash
 conda activate llmapp
 ```
-
 
 ### STEP 02- install the requirements
 ```bash
